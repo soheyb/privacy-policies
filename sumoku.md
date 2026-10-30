@@ -107,7 +107,7 @@ We may update this Privacy Policy from time to time. When we do, we will update 
 
 If you have any questions about this Privacy Policy, please contact us at:
 
-**Email:** soheyb.alouach@believe.com
+**Email:** soheyb.alouach.dev@gmail.com
 
 ---
 
